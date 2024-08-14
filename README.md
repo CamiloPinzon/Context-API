@@ -86,11 +86,6 @@ const App: React.FC = () => {
 export default App;
 ```
 
-## Branches
-
-- **`main`**: Contains the implementation using the `useState` hook.
-- **`useReducer`**: (If applicable) Contains an alternate implementation using the `useReducer` hook for managing theme state.
-
 ## License
 
 This project is licensed under the MIT License.
